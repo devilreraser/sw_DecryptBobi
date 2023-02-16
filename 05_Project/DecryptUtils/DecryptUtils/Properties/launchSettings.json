@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DecryptUtils": {
+      "commandName": "Project",
+      "commandLineArgs": "test.pmp.encrypt",
+      "workingDirectory": "C:\\repo_github\\sw_DecryptBobi\\03_Test"
+    }
+  }
+}
